@@ -178,3 +178,7 @@ fun TataletakRowColumn(modifier: Modifier) {
                         Row(
     }
 }
+
+                fun TataletakBoxColumnRow(modifier: Modifier) {
+                    Column {
+                    } {
